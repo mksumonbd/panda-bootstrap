@@ -1,0 +1,33 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.panda-bg-watch{
+    background-color: #ffa500;
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+    
+}
+.panda-bg-watch img{
+    height: 100px;
+    width: 100px;
+}
+.panda-bg-bag{
+    background-color: #da70d6;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.panda-bg-bag img{
+    height: 100px;
+    width: 100px;
+
+}   
+.panda-bg-shoes{
+    background-color: #0000ff;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.panda-bg-shoes img{
+    height: 100px;
+    width: 100px;
+}
